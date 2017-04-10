@@ -52,7 +52,7 @@ def main():
 		path = root+url.split('page-')[1]+i.split('/')[-1]
 		LoadPic(i,path)
 
-while a >= 2420:
+while a > 2424:
     print(a)
     b=str(a)
     root = "./pic/"+b+"/"
