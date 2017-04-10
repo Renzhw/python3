@@ -5,7 +5,7 @@ import requests
 import os
 import re
 
-a = 2423
+a = 2426
 print('开始爬取煎蛋网美女图片')
 allpicurl=[]
 def getHTMLText(url):
